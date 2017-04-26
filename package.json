@@ -3,7 +3,7 @@
     "node": ">=4.2.4"
   },
   "name": "commabot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds commas to large numbers",
   "main": "index.js",
   "scripts": {
