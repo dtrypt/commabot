@@ -5,16 +5,16 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @trustinruss/commabot`
+  `npm install commabot`
 
 ## Usage
 
-    var numFormatter = require('@trustinruss/commabot`);
+    var numFormatter = require('commabot');
 
-    var formattedNum = numFormatter(123456);
+    var formattedNum = numFormatter(123456789);
 
 
-  Output should be `123,456`
+  Output should be `123,456,789`
 
 
 ## Tests
