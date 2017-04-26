@@ -1,11 +1,5 @@
-# Commabot
+# Commabot [![Build Status](https://travis-ci.org/trustinruss/commabot.svg?branch=master)](https://travis-ci.org/trustinruss/commabot) [![Coverage Status](https://coveralls.io/repos/github/trustinruss/commabot/badge.svg?branch=master)](https://coveralls.io/github/trustinruss/commabot?branch=master)
 =========
-
-A small library that adds commas to numbers
-
-[![Build Status](https://travis-ci.org/trustinruss/commabot.svg?branch=master)](https://travis-ci.org/trustinruss/commabot)
-
-[![Coverage Status](https://coveralls.io/repos/github/trustinruss/commabot/badge.svg?branch=master)](https://coveralls.io/github/trustinruss/commabot?branch=master)
 
 A small library that adds commas to numbers
 
